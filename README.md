@@ -8,9 +8,7 @@
   <p>
     <img src="https://img.shields.io/badge/Jawa-333?style=for-the-badge" alt="Suku Jawa"/><img src="https://img.shields.io/badge/Mahasiswa-D96114?style=for-the-badge" alt="Status Mahasiswa"/><img src="https://img.shields.io/badge/Institut_Teknologi_Indonesia-F97316?style=for-the-badge" alt="Institut Teknologi Indonesia"/>
   </p>
-  
-  <p>Selamat datang di profil saya! Saya adalah seorang pembelajar di dunia pengembangan perangkat lunak dengan semangat untuk membangun aplikasi yang kokoh, elegan, dan bermakna.</p>
-  
+
 <table>
   <tr>
     <td>
