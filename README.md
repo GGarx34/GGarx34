@@ -1,43 +1,54 @@
 <p align="center">
-  <img src="/assets/ahero.png" alt="Profile Hero Banner Tegar Bagus Afrianto"/>
+  <img src="/assets/ahero.png" alt="Profile Banner Tegar Bagus Afrianto"/>
 </p>
 
-<div id="header" align="center">
-  <h1>👋 Halo, Saya Tegar Bagus Afrianto</h1>
-  <h3>Seorang Pembelajar Teknologi dari Tanah Jawa</h3>
-  <p>Selamat datang di profil saya! Saya sedang dalam perjalanan menjadi seorang Software Developer, dengan semangat untuk membangun aplikasi yang kokoh Terinspirasi dari filosofi Jawa, saya percaya pada proses yang teliti untuk menciptakan karya yang bermakna.</p>
+<div>
+  <h1>Tegar Bagus Afrianto</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Jawa-333?style=for-the-badge" alt="Suku Jawa"/><img src="https://img.shields.io/badge/Mahasiswa-D96114?style=for-the-badge" alt="Status Mahasiswa"/><img src="https://img.shields.io/badge/Institut_Teknologi_Indonesia-F97316?style=for-the-badge" alt="Institut Teknologi Indonesia"/>
+  </p>
+  
+  <p>Selamat datang di profil saya! Saya adalah seorang pembelajar di dunia pengembangan perangkat lunak dengan semangat untuk membangun aplikasi yang kokoh, elegan, dan bermakna.</p> <br>
+
+**Sosial Media**
+  <p>
+
+  [![Instagram Badge](https://img.shields.io/badge/-@teguarx34-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/teguarx34) [![Mail Badge](https://img.shields.io/badge/-garxboss@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=garxboss@gmail.com)
+</p>
 </div>
-
----
-
-### 🌱 Teknologi yang Sedang Saya Pelajari
-
-Saya sedang memfokuskan waktu saya untuk mendalami:
-
-<p align="center">
+<h2> 💻Sedang Saya Pelajari </h2>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwindcss"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vs-code"/> </a>
 </p>
 
 ---
-### 📜 Spotify now playing
 
-<a href="https://open.spotify.com/user/31cui6cunprbnc5mr6fiulgk3rwq?si=dc0ba0844bb9400c" target="_blank">
-    <img align="center" src="http://my-spotify-listening.vercel.app//api/spotify" alt="Tegar's Spotify Now Playing" width="350" />
-</a> 
-
-### 🔗 Mari Terhubung!
-
-Jangan ragu untuk menghubungi saya untuk sekadar menyapa!
+### 🎧 Sedang Mendengarkan..
 
 <p>
-
-  [![Instagram Badge](https://img.shields.io/badge/-@teguarx34-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/teguarx34)
-
-  [![Mail Badge](https://img.shields.io/badge/-garxboss@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=garxboss@gmail.com)
+  <a href="https://open.spotify.com/user/31cui6cunprbnc5mr6fiulgk3rwq2" target="_blank">
+    <img src="https://spotifyligarx.vercel.app/api/spotify" alt="Tegar's Spotify Now Playing" width="350" />
+  </a>
 </p>
+<br>
+<br>
 
 ---
 
+### ✒️ Falsafah
+
+<div>
+  
+> **"Membuat program itu seperti mendirikan candi. Butuh perencanaan matang, fondasi yang kuat, dan detail yang teliti**
+> **dan tentu saja, harus jadi dalam semalam." 😉**
+</div>
