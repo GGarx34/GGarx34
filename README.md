@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png" alt="Profile Banner Tegar Bagus Afrianto"/>
+  <img src="/assets/ahero.png" alt="Profile Hero Banner Tegar Bagus Afrianto"/>
 </p>
 
 <div id="header" align="center">
@@ -7,10 +7,6 @@
   <h3>Seorang Pembelajar Teknologi dari Tanah Jawa</h3>
   <p>Selamat datang di profil saya! Saya sedang dalam perjalanan menjadi seorang Software Developer, dengan semangat untuk membangun aplikasi yang kokoh Terinspirasi dari filosofi Jawa, saya percaya pada proses yang teliti untuk menciptakan karya yang bermakna.</p>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teguarx34&show_icons=true&locale=id&theme=tokyonight&count_private=true" alt="Statistik GitHub Tegar Bagus Afrianto" />
-</p>
 
 ---
 
@@ -31,8 +27,8 @@ Saya sedang memfokuskan waktu saya untuk mendalami:
 
 Jangan ragu untuk menghubungi saya untuk sekadar menyapa!
 
-<p align="center">
-  <a href="https://instagram.com/teguarx34" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p>
+  <a href="https://instagram.com/teguarx34" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /> <b>Instagram</b> </a>
 </p>
 
 ---
