@@ -28,11 +28,14 @@ Saya sedang memfokuskan waktu saya untuk mendalami:
 Jangan ragu untuk menghubungi saya untuk sekadar menyapa!
 
 <p>
-  <a href="https://instagram.com/teguarx34" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="20" /> <b>Instagram</b> </a>
+  [![Instagram Badge](https://img.shields.io/badge/-@teguarx34-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/teguarx34)
+  [![Mail Badge](https://img.shields.io/badge/-garxboss@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=garxboss@gmail.com)
 </p>
 
 ---
 
-### 📜 Sok Bijak Aja
+### 📜 Spotify now playing
 
-> "Membuat program itu seperti mendirikan sebuah candi. Butuh perencanaan yang matang, fondasi yang kuat, dan detail yang teliti agar bisa berdiri kokoh dan abadi."
+<a href="https://open.spotify.com/user/31cui6cunprbnc5mr6fiulgk3rwq?si=1945800308a34cf4" target="_blank">
+    <img align="center" src="https://spotify-now-listening-seven.vercel.app/api/spotify" alt="Tegar's Spotify Now Playing" width="350" />
+</a>
