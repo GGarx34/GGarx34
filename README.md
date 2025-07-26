@@ -22,6 +22,11 @@ Saya sedang memfokuskan waktu saya untuk mendalami:
 </p>
 
 ---
+### 📜 Spotify now playing
+
+<a href="https://open.spotify.com/user/31cui6cunprbnc5mr6fiulgk3rwq?si=dc0ba0844bb9400c" target="_blank">
+    <img align="center" src="http://my-spotify-listening.vercel.app//api/spotify" alt="Tegar's Spotify Now Playing" width="350" />
+</a> 
 
 ### 🔗 Mari Terhubung!
 
@@ -36,8 +41,3 @@ Jangan ragu untuk menghubungi saya untuk sekadar menyapa!
 
 ---
 
-### 📜 Spotify now playing
-
-<a href="https://open.spotify.com/user/31cui6cunprbnc5mr6fiulgk3rwq?si=dc0ba0844bb9400c" target="_blank">
-    <img align="center" src="http://my-spotify-listening.vercel.app//api/spotify" alt="Tegar's Spotify Now Playing" width="350" />
-</a>
