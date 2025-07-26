@@ -49,6 +49,5 @@
     <img src="https://my-spotify-listening.vercel.app/api/spotify" alt="Tegar's Spotify Now Playing" width="400" />
   </a>
 </p>
-<br>
 
 ---
