@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Jawa-333?style=for-the-badge" alt="Suku Jawa"/><img src="https://img.shields.io/badge/Mahasiswa-D96114?style=for-the-badge" alt="Status Mahasiswa"/><img src="https://img.shields.io/badge/Institut_Teknologi_Indonesia-F97316?style=for-the-badge" alt="Institut Teknologi Indonesia"/>
   </p>
   
-  <p>Selamat datang di profil saya! Saya adalah seorang pembelajar di dunia pengembangan perangkat lunak dengan semangat untuk membangun aplikasi yang kokoh, elegan, dan bermakna.</p> <br>
+  <p>Selamat datang di profil saya! Saya adalah seorang pembelajar di dunia pengembangan perangkat lunak dengan semangat untuk membangun aplikasi yang kokoh, elegan, dan bermakna.</p>
   
 <table>
   <tr>
@@ -22,8 +22,10 @@
   <p>
 
   [![Instagram Badge](https://img.shields.io/badge/-@teguarx34-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/teguarx34) [![Mail Badge](https://img.shields.io/badge/-garxboss@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=garxboss@gmail.com)
-  </p> <br>
+  </p>
 </div>
+
+---
 <h3> 💻Sedang Saya Pelajari </h3>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
@@ -44,7 +46,7 @@
 
 <p>
   <a href="https://open.spotify.com/user/31cui6cunprbnc5mr6fiulgk3rwq2" target="_blank">
-    <img src="https://my-spotify-listening.vercel.app/api/spotify" alt="Tegar's Spotify Now Playing" width="450" />
+    <img src="https://my-spotify-listening.vercel.app/api/spotify" alt="Tegar's Spotify Now Playing" width="400" />
   </a>
 </p>
 <br>
